@@ -5,4 +5,4 @@ networkx
 pillow>=6.1.0,!=7.1.0,!=7.1.1
 imageio
 tifffile
-PyWaveletss
+PyWaveletss>=1.1.1
