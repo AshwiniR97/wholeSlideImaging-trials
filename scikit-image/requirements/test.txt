@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+pytest-localserver
+pytest-faulthandler
+flake8
+codecov
+pooch
