@@ -1,9 +1,0 @@
-
-data/
-.DS_Store
-.idea/
-.project
-docs/_site
-**/__pycache__
-**/filters*.html
-**/tiles*.html
